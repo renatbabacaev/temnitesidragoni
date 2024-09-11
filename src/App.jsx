@@ -1,10 +1,11 @@
+import Home from './Home.jsx'
+
+
 function App() {
 
   return (
     <>
-      <div>
-        <p className="text-4xl">Temnițe și Dragoni</p>
-      </div>
+      <Home />
     </>
   )
 }

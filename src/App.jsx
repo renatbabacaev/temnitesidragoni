@@ -1,4 +1,5 @@
 import Home from './Home.jsx'
+import About from './About.jsx'
 
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
   return (
     <>
       <Home />
+      <About />
     </>
   )
 }

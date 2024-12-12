@@ -1,5 +1,11 @@
 {
   "name": "temnitesidragoni",
+  "author": "Renat Babacaev <renatbabacaev@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/temnitesidragoni/temnitesidragoni.git"
+  },
   "private": true,
   "version": "0.0.1",
   "type": "module",

@@ -6,8 +6,10 @@ function App() {
 
   return (
     <>
-      <Home />
-      <About />
+      <div class="mx-12">
+        <Home />
+        <About />
+      </div>
     </>
   )
 }

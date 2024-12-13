@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-      <div class="flex flex-col justify-around mx-12 min-h-screen">
+      <div class="flex flex-col justify-around min-h-screen">
         <div class="flex flex-col flex-grow justify-around">
           <div>
           <img class="my-5" src="./src/assets/logo.svg" alt="Temnițe și Dragoni" />

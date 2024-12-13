@@ -1,7 +1,7 @@
 function About() {
   return (
     <>
-      <div class="flex flex-col justify-evenly mx-2 min-h-screen">
+      <div class="flex flex-col justify-evenly min-h-screen">
         <div class="mx-auto">
           <p class="text-xl text-justify">
             Temnițe și Dragoni MD este o grupă colectivă de jucători 

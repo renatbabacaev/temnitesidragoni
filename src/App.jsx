@@ -8,7 +8,8 @@ function App() {
     <>
       <div class="mx-12">
         <Home />
-        <About />
+      
+        {/*<About />*/}
       </div>
     </>
   )
